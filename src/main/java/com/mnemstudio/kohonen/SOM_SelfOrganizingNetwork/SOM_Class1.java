@@ -1,4 +1,4 @@
-package com.mnemstudio.kohonen.SOM;
+package com.mnemstudio.kohonen.SOM_SelfOrganizingNetwork;
 
 /**
  * http://mnemstudio.org/neural-networks-som1.htm

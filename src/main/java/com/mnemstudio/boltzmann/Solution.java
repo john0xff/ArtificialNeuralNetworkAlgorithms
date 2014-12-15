@@ -2,6 +2,8 @@ package com.mnemstudio.boltzmann;
 
 /**
  * <pre>
+ * First result:
+ * 
  * Temperature     Valid   Length      Tour
  * 
  * 100.0          no     71
@@ -507,11 +509,19 @@ package com.mnemstudio.boltzmann;
  * Temperature     Valid   Length      Tour
  * 0.6636851557994549          yes     7.420627662551683     24356701
  * 
- * 
- * 
- * 
  * </pre>
  * 
+ * <pre>
+ * Second result
+ * 
+ * 0.6570483042414603          no     012
+ * 0.6504778211990457          no     5732
+ * 0.6439730429870553          no     6
+ * 
+ * Temperature     Valid   Length      Tour
+ * 0.6375333125571847          yes     6.122934917839078     34567012
+ * 
+ * </pre>
  * 
  * 
  * 

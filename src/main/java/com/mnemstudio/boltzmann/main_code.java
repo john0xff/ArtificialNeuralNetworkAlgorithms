@@ -3,9 +3,15 @@ package com.mnemstudio.boltzmann;
 // Filename: Boltzmann1.java
 
 /**
+ * Boltzmann Machine
+ * 
+ * 
  * http://mnemstudio.org/neural-networks-boltzmann.htm
  * 
  * <pre>
+ * 
+ * 
+ * 
  * This is a rendition of the classic Traveling Salesman Problem, where the shortest tour needs to be found among all
  * cites without visiting the same one twice. The algorithm works out the minimum Cartesian distance through eight
  * cities. The cities are arranged in a circle, where the shortest distance is to go around in order, but the algorithm

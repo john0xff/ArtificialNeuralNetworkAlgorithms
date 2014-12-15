@@ -1,9 +1,17 @@
-package com.mnemstudio.kohonen.SOM;
+package com.mnemstudio.kohonen.SOM_SelfOrganizingNetwork;
 
 /**
+ * 
+ * 
+ * Self-Organizing Network
+ * 
+ * 
  * http://mnemstudio.org/neural-networks-som1.htm
  * 
+ * 
+ * 
  * <pre>
+ * 
  * 
  * A Kohonen Self-Organizing Network with 4 Inputs and 2-Node Linear Array of Cluster Units.
  * 
